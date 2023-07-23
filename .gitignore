@@ -1,3 +1,4 @@
+*.log
 /target
 Dockerfile
 README.md
